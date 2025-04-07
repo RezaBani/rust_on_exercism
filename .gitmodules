@@ -1,2 +1,14 @@
 [submodule "reverse-string"]
 	path = reverse-string
+[submodule "gigasecond"]
+	path = gigasecond
+	url = gigasecond
+[submodule "clock"]
+	path = clock
+	url = clock
+[submodule "anagram"]
+	path = anagram
+	url = https://github.com/RezaBani/anagram
+[submodule "space-age"]
+	path = space-age
+	url = space-age
