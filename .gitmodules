@@ -1,5 +1,6 @@
 [submodule "reverse-string"]
 	path = reverse-string
+	url = https://github.com/RezaBani/reverse-string
 [submodule "gigasecond"]
 	path = gigasecond
 	url = https://github.com/RezaBani/gigasecond
