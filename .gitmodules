@@ -5,7 +5,7 @@
 	url = gigasecond
 [submodule "clock"]
 	path = clock
-	url = clock
+	url = https://github.com/RezaBani/clock
 [submodule "anagram"]
 	path = anagram
 	url = https://github.com/RezaBani/anagram
