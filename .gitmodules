@@ -28,3 +28,6 @@
 [submodule "bottle-song"]
 	path = bottle-song
 	url = https://github.com/RezaBani/bottle-song
+[submodule "difference-of-squares"]
+	path = difference-of-squares
+	url = https://github.com/RezaBani/difference-of-squares
