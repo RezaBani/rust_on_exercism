@@ -22,3 +22,6 @@
 [submodule "luhn"]
 	path = luhn
 	url = https://github.com/RezaBani/luhn
+[submodule "armstrong-numbers"]
+	path = armstrong-numbers
+	url = https://github.com/RezaBani/armstrong-numbers
