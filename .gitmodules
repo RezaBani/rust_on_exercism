@@ -25,3 +25,6 @@
 [submodule "armstrong-numbers"]
 	path = armstrong-numbers
 	url = https://github.com/RezaBani/armstrong-numbers
+[submodule "bottle-song"]
+	path = bottle-song
+	url = https://github.com/RezaBani/bottle-song
