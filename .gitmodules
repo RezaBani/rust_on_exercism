@@ -19,3 +19,6 @@
 [submodule "minesweeper"]
 	path = minesweeper
 	url = https://github.com/RezaBani/minesweeper
+[submodule "luhn"]
+	path = luhn
+	url = https://github.com/RezaBani/luhn
