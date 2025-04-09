@@ -16,3 +16,6 @@
 [submodule "sublist"]
 	path = sublist
 	url = https://github.com/RezaBani/sublist
+[submodule "minesweeper"]
+	path = minesweeper
+	url = https://github.com/RezaBani/minesweeper
