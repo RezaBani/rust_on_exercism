@@ -31,3 +31,18 @@
 [submodule "difference-of-squares"]
 	path = difference-of-squares
 	url = https://github.com/RezaBani/difference-of-squares
+[submodule "grains"]
+	path = grains
+	url = https://github.com/RezaBani/grains
+[submodule "leap"]
+	path = leap
+	url = https://github.com/RezaBani/leap
+[submodule "nth-prime"]
+	path = nth-prime
+	url = https://github.com/RezaBani/nth-prime
+[submodule "prime-factors"]
+	path = prime-factors
+	url = https://github.com/RezaBani/prime-factors
+[submodule "proverb"]
+	path = proverb
+	url = https://github.com/RezaBani/proverb
