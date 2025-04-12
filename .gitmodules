@@ -61,3 +61,6 @@
 [submodule "matching-brackets"]
 	path = matching-brackets
 	url = https://github.com/RezaBani/matching-brackets
+[submodule "collatz-conjecture"]
+	path = collatz-conjecture
+	url = https://github.com/RezaBani/collatz-conjecture
