@@ -64,3 +64,6 @@
 [submodule "collatz-conjecture"]
 	path = collatz-conjecture
 	url = https://github.com/RezaBani/collatz-conjecture
+[submodule "series"]
+	path = series
+	url = https://github.com/RezaBani/series
