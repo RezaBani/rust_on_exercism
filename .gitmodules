@@ -52,3 +52,6 @@
 [submodule "sum-of-multiples"]
 	path = sum-of-multiples
 	url = https://github.com/RezaBani/sum-of-multiples
+[submodule "bob"]
+	path = bob
+	url = https://github.com/RezaBani/bob
