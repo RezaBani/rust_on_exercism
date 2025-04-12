@@ -46,3 +46,9 @@
 [submodule "proverb"]
 	path = proverb
 	url = https://github.com/RezaBani/proverb
+[submodule "raindrops"]
+	path = raindrops
+	url = https://github.com/RezaBani/raindrops
+[submodule "sum-of-multiples"]
+	path = sum-of-multiples
+	url = https://github.com/RezaBani/sum-of-multiples
