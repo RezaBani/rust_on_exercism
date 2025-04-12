@@ -55,3 +55,6 @@
 [submodule "bob"]
 	path = bob
 	url = https://github.com/RezaBani/bob
+[submodule "high-scores"]
+	path = high-scores
+	url = https://github.com/RezaBani/high-scores
