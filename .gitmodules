@@ -58,3 +58,6 @@
 [submodule "high-scores"]
 	path = high-scores
 	url = https://github.com/RezaBani/high-scores
+[submodule "matching-brackets"]
+	path = matching-brackets
+	url = https://github.com/RezaBani/matching-brackets
