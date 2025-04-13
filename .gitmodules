@@ -67,3 +67,6 @@
 [submodule "series"]
 	path = series
 	url = https://github.com/RezaBani/series
+[submodule "kindergarten-garden"]
+	path = kindergarten-garden
+	url = https://github.com/RezaBani/kindergarten-garden
